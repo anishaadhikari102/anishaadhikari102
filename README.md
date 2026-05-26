@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**anishaadhikari102/anishaadhikari102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Anisha
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student
+📱 Currently learning Flutter & Dart
+🎨 Exploring UI/UX Design and Mobile App Development
+💡 Interested in building modern and user-friendly applications
+🚀 Improving my coding and design skills every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Flutter
+* Dart
+* Java
+* C/C++
+* HTML, CSS, JavaScript
+* Git & GitHub
+
+## 🌱 Currently Learning
+
+* Flutter App Development
+* UI/UX Design
+* Backend Basics
+* Database Management
+
+## 📌 Goals
+
+* Build real-world mobile applications
+* Improve frontend and UI design skills
+* Contribute to open-source projects
+
+## 📫 Connect With Me
+
+* Facebook: https://facebook.com/anishaadhikari
+* LinkedIn: https://linkedin.com/in/anishaadhikari
+* GitHub: https://github.com/anishaadhikari102
+
+✨ “Learning by building.”
