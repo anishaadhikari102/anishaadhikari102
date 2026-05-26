@@ -32,8 +32,6 @@
 
 ## 📫 Connect With Me
 
-* Facebook: https://facebook.com/anishaadhikari
-* LinkedIn: https://linkedin.com/in/anishaadhikari
 * GitHub: https://github.com/anishaadhikari102
 
 ✨ “Learning by building.”
