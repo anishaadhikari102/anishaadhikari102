@@ -8,6 +8,8 @@
 💡 Interested in building modern and user-friendly applications
 🚀 Improving my coding and design skills every day
 
+⚙️ working in School management system
+
 ## 🛠️ Tech Stack
 
 * Flutter
